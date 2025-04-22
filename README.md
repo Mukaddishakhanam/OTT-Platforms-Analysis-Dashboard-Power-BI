@@ -12,3 +12,4 @@ Visuals for better storytelling and decision-making
 Microsoft Power BI · DAX · Data Analysis · Data Visualization · Data Cleaning · Analytical Skills
 
 # Project_pdf_Link:
+https://github.com/Mukaddishakhanam/OTT-Platforms-Analysis-Dashboard-Power-BI/blob/main/OTT_Dashboard.pdf
